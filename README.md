@@ -17,8 +17,9 @@ performed in order to guarantee that the chassis would not fail under the weight
 
 (fea), (cad of car)
 
+## Fabrication Process
 
-
+  
 ## Video of me driving the Go-kart!
 
 https://github.com/user-attachments/assets/fb845483-d172-4a8d-8a8e-c6a1d2ca0941
