@@ -15,10 +15,11 @@ when going around corner, which is essential as our final course consisted of a 
 the turning radius, wheelbase, wheel radius resulted in a maximum steering angle of 38° and an Ackermann ratio of 0.522. FEA analysis was also 
 performed in order to guarantee that the chassis would not fail under the weight of the driver, engine, and other components of the kart. 
 
-
 (fea), (cad of car)
+
+
 
 ## Video of me driving the Go-kart!
 
-https://github.com/user-attachments/assets/4cc92635-a495-468a-8d7d-2a40a7170ef8
+https://github.com/user-attachments/assets/fb845483-d172-4a8d-8a8e-c6a1d2ca0941
 
