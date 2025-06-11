@@ -17,3 +17,8 @@ performed in order to guarantee that the chassis would not fail under the weight
 
 
 (fea), (cad of car)
+
+## Video of me driving the Go-kart!
+
+https://github.com/user-attachments/assets/4cc92635-a495-468a-8d7d-2a40a7170ef8
+
