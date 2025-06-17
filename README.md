@@ -32,16 +32,29 @@ freely with the wheels.
 
 (picture of angled supports), (mounting bracket weld)
 
-The next step was to install the engine. A predator 6.5 HP gas engine purchased from harbor freight was used to power the go-kart. In order to get a better
-edge on our competitors, we decided on upgrading the valve springs, flywheel, caburetor, intake, and exhaust . The engine was taken apart and installing the 
-springs were no joke. It took a lot of effort and time in order to pop the springs in as there was no easy way for it to latch onto the grooves. The flywheel
-also was very hard to take off and we ended up purchasing a 5 ton flywheel puller in order to remove it and install the new aluminum flywheel. 
+The next step was to install the engine. A predator 6.5 HP gas engine purchased from harbor freight was used to power the go-kart. In order to get a 
+better edge on our competitors, we decided on upgrading the valve springs, flywheel, caburetor, intake, and exhaust . The engine was taken apart and 
+installing the springs were no joke. It took a lot of effort and time in order to pop the springs in as there was no easy way for it to latch onto the
+grooves. The flywheel also was very hard to take off and we ended up purchasing a 5 ton flywheel puller in order to remove it and install the new aluminum 
+flywheel. 
 
 (front of engine), (spring installation), (final modded engine)
 
-After modding the engine, we went ahead and built the mounts for the engine and the seat. small pieces of tubing were welded to the base in order to prop a sheet
-of metal on which the seat and the engine would lay. These sheets were cut using a angle grider and holes were drilled in the frame using a miling machine.
+After modding the engine, we went ahead and built the mounts for the engine and the seat. small pieces of tubing were welded to the base in order to prop 
+a sheet of metal on which the seat and the engine would lay. These sheets were cut using a angle grinder and mounting holes were drilled using a miling 
+machine. Next, it was time to install the brakes and the pedals. The brake was mounted to the back using a 'customized' bracket that was used to connect 
+the caliper to the frame. It did not look pretty, but it did its job. The brake lines were hard to connect to the pedals due to its length, however we 
+came up with a diy solution using zip ties to connect the pedal to the master cylinder. Since the it did not reach all the way, we covered the distance 
+by using two thin metal slabs that would be connect the pedal with the screws below the cylinder in such a way that the cylinder would compress when the
+pedal is pushed.
 
+(drilling hole using lathe), (brake bracket), (zip tie solution)
+
+The steering column was used by cutting up a steel pipe and attaching it to the steering spindles. Since our design had our steering wheel slightly offset
+to the side, the spindles were cut using a metal table saw and sanded down to screw on the spindle screw heads. A lot of trial and minor adjustments were needed
+in order to make steering smooth and equal in both directions. The front steering knuckle was welded onto the frame and was attached to the front wheels.
+
+(preparing steering knuckle), (front steering knuckle), (front system with steering rod and spindles)
 
 
 
