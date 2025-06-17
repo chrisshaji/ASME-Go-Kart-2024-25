@@ -51,14 +51,23 @@ pedal is pushed.
 (drilling hole using lathe), (brake bracket), (zip tie solution)
 
 The steering column was used by cutting up a steel pipe and attaching it to the steering spindles. Since our design had our steering wheel slightly offset
-to the side, the spindles were cut using a metal table saw and sanded down to screw on the spindle screw heads. A lot of trial and minor adjustments were needed
-in order to make steering smooth and equal in both directions. The front steering knuckle was welded onto the frame and was attached to the front wheels.
+to the side, the spindles were cut using a metal table saw and sanded down to screw on the spindle screw heads. A lot of trial and minor adjustments were
+needed in order to make steering smooth and equal in both directions. The front steering knuckle was welded onto the frame and was attached to the front 
+wheels. We installed the knuckles at an small angle so that the wheels would have a slight negative camber which would provide more control during cornering.
 
-(preparing steering knuckle), (front steering knuckle), (front system with steering rod and spindles)
+(grinding steering knuckle to get angle), (front steering knuckle), (front system with steering rod and spindles)
 
+Finally, we put on the chain on the sprocket and connected the gas pedals in order to test our go-kart to see if it runs. Right off the bat, we noticed that
+the sprocket was not in line with the engine as it would hit the outer casing of the engine causing wear and tear. Secondly, the chain did not have enough
+tension which might cause the sprocket to skip teeth which might damage the chain or sprocket. Also, one of our tie rods snapped in half which could be due
+to the fact the our steering column did not have a mounting column which decrease the chance of the driver accidentally breaking the tie rod/steering column
+by steering to far out.
 
+(steering column)
 
-
+After fixing all of these issues, it was time for race day! It went well all things considered as our kart did not fail at all. We did have to tighten the CVT 
+bolts after each run but apart from that our kart performed well. I would like to give a special shout out to my team for their collaboration and dedication 
+in this project as it made this experience both highly enjoyable and deepy rewarding!
 
 
 ## Video of me driving the Go-kart!
