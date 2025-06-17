@@ -1,4 +1,4 @@
-# ASME-Go-Kart-2024-25
+# ASME Go Kart 2024-25
 This was a very fun project where I got to work on creating a drivable Go-kart.
 
 ## Initial Design Goals
@@ -55,15 +55,36 @@ to the side, the spindles were cut using a metal table saw and sanded down to sc
 needed in order to make steering smooth and equal in both directions. The front steering knuckle was welded onto the frame and was attached to the front 
 wheels. We installed the knuckles at an small angle so that the wheels would have a slight negative camber which would provide more control during cornering.
 
-(grinding steering knuckle to get angle), (front steering knuckle), (front system with steering rod and spindles)
-
+<table align="center">
+  <tr>
+    <td style="padding-right: 30px;">
+      <img src="https://github.com/user-attachments/assets/1105e063-d82b-4f90-a9bb-fbe41ce6aa9a" width="423.86" height="355" alt="Smoothing out the surface for the knuckle">
+      <br>
+      <span>Smoothing out the surface for the knuckle</span>
+    </td>
+    <td style="padding-right: 30px;">
+      <img src="https://github.com/user-attachments/assets/5670b965-eaef-430c-81f9-2a2e2b62c020" width="297.56" height="355" alt="Welding steering knuckle">
+      <br>
+      <span>Welding steering knuckle</span>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/7c200ebe-4ed1-4a33-9414-4caeb3357fb3" width="250" height="355" alt="Front steering system">
+      <br>
+      <span>Front steering system</span>
+    </td>
+  </tr>
+</table>
 Finally, we put on the chain on the sprocket and connected the gas pedals in order to test our go-kart to see if it runs. Right off the bat, we noticed that
 the sprocket was not in line with the engine as it would hit the outer casing of the engine causing wear and tear. Secondly, the chain did not have enough
 tension which might cause the sprocket to skip teeth which might damage the chain or sprocket. Also, one of our tie rods snapped in half which could be due
 to the fact the our steering column did not have a mounting column which decrease the chance of the driver accidentally breaking the tie rod/steering column
 by steering to far out.
 
-(steering column)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e2374a31-e4b5-465c-a8dd-d22b2281d8e6" alt="Steering column holder" width="400" height "500">
+  <br/>
+  <em>Steering column holder</em>
+</p>
 
 After fixing all of these issues, it was time for race day! It went well all things considered as our kart did not fail at all. We did have to tighten the CVT 
 bolts after each run but apart from that our kart performed well. I would like to give a special shout out to my team for their collaboration and dedication 
