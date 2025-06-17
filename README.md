@@ -27,12 +27,26 @@ more experienced welders on the team, and it all worked out as none of the welds
 Then, we moved on to mounting all the parts onto the frame. We started off with the rear axle kit as we had to weld a couple of small pieces at the 
 end of the car to attach its mounting brackets. Upon putting it together, we had to get rid of the third horizontal bar across the width of the kart 
 as it would intefere with the sprocket of the axle. We replaced that bar with two angled cuts that went from the end of the kart to the middle of the
-second bar in order to keep the same structural integrity. The mounting brackets were welded to the small pieces at the end and the rear axle along with
-the wheels spun freely.
+second bar in order to keep the same structural integrity. The mounting brackets were welded to the small pieces at the end and the rear axle spun
+freely with the wheels.
 
-(picture of angled supports)
+(picture of angled supports), (mounting bracket weld)
 
-The next step was to install the engine. We wanted to 
+The next step was to install the engine. A predator 6.5 HP gas engine purchased from harbor freight was used to power the go-kart. In order to get a better
+edge on our competitors, we decided on upgrading the valve springs, flywheel, caburetor, intake, and exhaust . The engine was taken apart and installing the 
+springs were no joke. It took a lot of effort and time in order to pop the springs in as there was no easy way for it to latch onto the grooves. The flywheel
+also was very hard to take off and we ended up purchasing a 5 ton flywheel puller in order to remove it and install the new aluminum flywheel. 
+
+(front of engine), (spring installation), (final modded engine)
+
+After modding the engine, we went ahead and built the mounts for the engine and the seat. small pieces of tubing were welded to the base in order to prop a sheet
+of metal on which the seat and the engine would lay. These sheets were cut using a angle grider and holes were drilled in the frame using a miling machine.
+
+
+
+
+
+
 
 ## Video of me driving the Go-kart!
 
