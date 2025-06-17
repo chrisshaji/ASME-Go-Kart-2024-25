@@ -10,15 +10,15 @@ consideration the comfort of the driver. We also had to stay under the budget of
 
 (sketches of car)
 
-In order to ensure good cornering, we decided to implment Ackermann steering geometry to our kart. This would greatly reduce the slippage of tires 
-when going around corner, which is essential as our final course consisted of a lot of sharp turns. A lot of mathematical calculations involving
+In order to ensure good cornering, we decided to implement Ackermann steering geometry to our kart. This would greatly reduce the slippage of tires 
+when going around corner, which is essential as our final course consisted of many sharp turns. A lot of mathematical calculations involving
 the turning radius, wheelbase, wheel radius resulted in a maximum steering angle of 38° and an Ackermann ratio of 0.522. FEA analysis was also 
 performed in order to guarantee that the chassis would not fail under the weight of the driver, engine, and other components of the kart. 
 
 (fea), (cad of car)
 
 ## Fabrication Process
-After desinigning and ensuring that our design would be feasible, we moved on to the fabrication process. For the chassis, we utilized a 24' long
+After designing and ensuring that our design would be feasible, we moved on to the fabrication process. For the chassis, we utilized a 24' long
 metal tube and cut it up into different sections. These sections were then welded together using MIG welds. Some of the angled welds were done by
 more experienced welders on the team, and it all worked out as none of the welds gave out during testing.
 
@@ -33,10 +33,10 @@ freely with the wheels.
 (picture of angled supports), (mounting bracket weld)
 
 The next step was to install the engine. A predator 6.5 HP gas engine purchased from harbor freight was used to power the go-kart. In order to get a 
-better edge on our competitors, we decided on upgrading the valve springs, flywheel, caburetor, intake, and exhaust . The engine was taken apart and 
+better edge on our competitors, we decided on upgrading the valve springs, flywheel, caburetor, intake, and exhaust. The engine was taken apart and 
 installing the springs were no joke. It took a lot of effort and time in order to pop the springs in as there was no easy way for it to latch onto the
-grooves. The flywheel also was very hard to take off and we ended up purchasing a 5 ton flywheel puller in order to remove it and install the new aluminum 
-flywheel. 
+grooves. The flywheel also was very hard to take off and we ended up purchasing a 5 ton flywheel puller in order to remove it and install the new 
+aluminum flywheel. 
 
 (front of engine), (spring installation), (final modded engine)
 
@@ -44,7 +44,7 @@ After modding the engine, we went ahead and built the mounts for the engine and 
 a sheet of metal on which the seat and the engine would lay. These sheets were cut using a angle grinder and mounting holes were drilled using a miling 
 machine. Next, it was time to install the brakes and the pedals. The brake was mounted to the back using a 'customized' bracket that was used to connect 
 the caliper to the frame. It did not look pretty, but it did its job. The brake lines were hard to connect to the pedals due to its length, however we 
-came up with a diy solution using zip ties to connect the pedal to the master cylinder. Since the it did not reach all the way, we covered the distance 
+came up with a DIY solution using zip ties to connect the pedal to the master cylinder. Since the it did not reach all the way, we covered the distance 
 by using two thin metal slabs that would be connect the pedal with the screws below the cylinder in such a way that the cylinder would compress when the
 pedal is pushed.
 
