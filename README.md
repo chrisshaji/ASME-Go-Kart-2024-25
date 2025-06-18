@@ -57,23 +57,28 @@ wheels. We installed the knuckles at an small angle so that the wheels would hav
 
 <table align="center">
   <tr>
-    <td style="padding-right: 30px;">
+    <td style="padding-right: 30px; text-align: center;">
       <img src="https://github.com/user-attachments/assets/1105e063-d82b-4f90-a9bb-fbe41ce6aa9a" width="338.86" height="270" alt="Smoothing out the surface for the knuckle">
       <br>
-      <span>Smoothing out the surface for the knuckle</span>
+      <div>Smoothing out the surface for the knuckle</div>
     </td>
-    <td style="padding-right: 30px;">
+    <td style="padding-right: 30px; text-align: center;">
       <img src="https://github.com/user-attachments/assets/5670b965-eaef-430c-81f9-2a2e2b62c020" width="232.37" height="320" alt="Welding steering knuckle">
       <br>
-      <span>Welding steering knuckle</span>
+      <div>Welding steering knuckle</div>
     </td>
-    <td>
+    <td style="text-align: center;">
       <img src="https://github.com/user-attachments/assets/7c200ebe-4ed1-4a33-9414-4caeb3357fb3" width="232.37" height="320" alt="Front steering system">
       <br>
-      <span>Front steering system</span>
+      <div>Front steering system</div>
     </td>
   </tr>
 </table>
+
+| ![Smoothing](https://github.com/user-attachments/assets/1105e063-d82b-4f90-a9bb-fbe41ce6aa9a) | ![Welding](https://github.com/user-attachments/assets/5670b965-eaef-430c-81f9-2a2e2b62c020) | ![Front Steering](https://github.com/user-attachments/assets/7c200ebe-4ed1-4a33-9414-4caeb3357fb3) |
+|:--:|:--:|:--:|
+| **Smoothing out the surface for the knuckle** | **Welding steering knuckle** | **Front steering system** |
+
 Finally, we put on the chain on the sprocket and connected the gas pedals in order to test our go-kart to see if it runs. Right off the bat, we noticed that
 the sprocket was not in line with the engine as it would hit the outer casing of the engine causing wear and tear. Secondly, the chain did not have enough
 tension which might cause the sprocket to skip teeth which might damage the chain or sprocket. Also, one of our tie rods snapped in half which could be due
