@@ -55,27 +55,7 @@ to the side, the spindles were cut using a metal table saw and sanded down to sc
 needed in order to make steering smooth and equal in both directions. The front steering knuckle was welded onto the frame and was attached to the front 
 wheels. We installed the knuckles at an small angle so that the wheels would have a slight negative camber which would provide more control during cornering.
 
-<table align="center">
-  <tr>
-    <td style="padding-right: 30px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/1105e063-d82b-4f90-a9bb-fbe41ce6aa9a" width="338.86" height="270" alt="Smoothing out the surface for the knuckle">
-      <br>
-      <div>Smoothing out the surface for the knuckle</div>
-    </td>
-    <td style="padding-right: 30px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/5670b965-eaef-430c-81f9-2a2e2b62c020" width="232.37" height="320" alt="Welding steering knuckle">
-      <br>
-      <div>Welding steering knuckle</div>
-    </td>
-    <td style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/7c200ebe-4ed1-4a33-9414-4caeb3357fb3" width="232.37" height="320" alt="Front steering system">
-      <br>
-      <div>Front steering system</div>
-    </td>
-  </tr>
-</table>
-
-| ![Smoothing](https://github.com/user-attachments/assets/1105e063-d82b-4f90-a9bb-fbe41ce6aa9a) | ![Welding](https://github.com/user-attachments/assets/5670b965-eaef-430c-81f9-2a2e2b62c020) | ![Front Steering](https://github.com/user-attachments/assets/7c200ebe-4ed1-4a33-9414-4caeb3357fb3) |
+| ![Smoothing](https://github.com/user-attachments/assets/465a5c34-5039-43dd-9bdb-db4a6818e130) | ![Welding](https://github.com/user-attachments/assets/5670b965-eaef-430c-81f9-2a2e2b62c020) | ![Front Steering](https://github.com/user-attachments/assets/7c200ebe-4ed1-4a33-9414-4caeb3357fb3) |
 |:--:|:--:|:--:|
 | **Smoothing out the surface for the knuckle** | **Welding steering knuckle** | **Front steering system** |
 
