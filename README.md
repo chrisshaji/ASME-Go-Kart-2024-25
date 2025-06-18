@@ -58,7 +58,7 @@ wheels. We installed the knuckles at an small angle so that the wheels would hav
 <table align="center">
   <tr>
     <td style="padding-right: 30px;">
-      <img src="https://github.com/user-attachments/assets/1105e063-d82b-4f90-a9bb-fbe41ce6aa9a" width="403.86" height="335" alt="Smoothing out the surface for the knuckle">
+      <img src="https://github.com/user-attachments/assets/1105e063-d82b-4f90-a9bb-fbe41ce6aa9a" width="338.86" height="270" alt="Smoothing out the surface for the knuckle">
       <br>
       <span>Smoothing out the surface for the knuckle</span>
     </td>
