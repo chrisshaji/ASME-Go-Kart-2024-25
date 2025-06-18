@@ -1,5 +1,5 @@
 # ASME Go Kart 2024-25
-This was a very fun project where I got to work on creating a drivable Go-kart.
+This was a very fun project where I got to work on creating a drivable Go-kart!
 
 ## Initial Design Goals
 We started off brainstorming ideas for our go-kart with two main goals in mind; maximum speed and good cornering. One factor that plays a 
@@ -58,17 +58,17 @@ wheels. We installed the knuckles at an small angle so that the wheels would hav
 <table align="center">
   <tr>
     <td style="padding-right: 30px;">
-      <img src="https://github.com/user-attachments/assets/1105e063-d82b-4f90-a9bb-fbe41ce6aa9a" width="423.86" height="355" alt="Smoothing out the surface for the knuckle">
+      <img src="https://github.com/user-attachments/assets/1105e063-d82b-4f90-a9bb-fbe41ce6aa9a" width="403.86" height="335" alt="Smoothing out the surface for the knuckle">
       <br>
       <span>Smoothing out the surface for the knuckle</span>
     </td>
     <td style="padding-right: 30px;">
-      <img src="https://github.com/user-attachments/assets/5670b965-eaef-430c-81f9-2a2e2b62c020" width="297.56" height="355" alt="Welding steering knuckle">
+      <img src="https://github.com/user-attachments/assets/5670b965-eaef-430c-81f9-2a2e2b62c020" width="232.37" height="320" alt="Welding steering knuckle">
       <br>
       <span>Welding steering knuckle</span>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/7c200ebe-4ed1-4a33-9414-4caeb3357fb3" width="250" height="355" alt="Front steering system">
+      <img src="https://github.com/user-attachments/assets/7c200ebe-4ed1-4a33-9414-4caeb3357fb3" width="232.37" height="320" alt="Front steering system">
       <br>
       <span>Front steering system</span>
     </td>
